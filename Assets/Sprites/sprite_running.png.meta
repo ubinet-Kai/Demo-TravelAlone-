@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 7a0891fee023fc8418f85409ec7ed1ad
+timeCreated: 1442845227
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_running_0
+    21300002: sprite_running_1
+    21300004: sprite_running_2
+    21300006: sprite_running_3
+    21300008: sprite_running_4
+    21300010: sprite_running_5
+    21300012: sprite_running_6
+    21300014: sprite_running_7
+    21300016: sprite_running_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sprite_running_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 307
+        width: 132
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 310
+        width: 154
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 339
+        width: 179
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 310
+        width: 153
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 308
+        width: 132
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 159
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 46
+        width: 177
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 11
+        width: 148
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sprite_running_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 7
+        width: 132
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
